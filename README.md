@@ -28,5 +28,5 @@
 
 1. **克隆仓库**
 ```bash
-git clone https://github.com/yourusername/exam-image-generator.git
+git clone https://github.com/yiluxiangqian0223/exam-image-generator.git
 cd exam-image-generator
