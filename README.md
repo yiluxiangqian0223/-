@@ -42,3 +42,23 @@
 ### 安装步骤
 
 1. **克隆仓库**
+git clone https://github.com/yiluxiangqian0223/exam-image-generator.git
+cd exam-image-generator
+
+2. **创建虚拟环境（推荐）**
+```bash
+python -m venv venv
+source venv/bin/activate  # Linux/Mac
+# 或
+venv\Scripts\activate     # Windows
+
+3.**安装依赖**
+pip install -r requirements.txt
+🚀 使用方法
+基本使用
+准备数据文件
+将考生信息保存为 2026kctx.xlsx，包含以下列：
+考场号 - 考场编号
+座位号 - 座位编号
+姓名 - 考生姓名
+身份证号 - 身份证号码
