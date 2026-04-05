@@ -48,7 +48,7 @@ cd exam-image-generator
 ```
 
 2. **创建虚拟环境（推荐）**
-bash
+```bash
 # Linux/Mac
 python -m venv venv
 source venv/bin/activate
